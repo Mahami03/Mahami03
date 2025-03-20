@@ -1,6 +1,7 @@
 <h2 align="left">Hi 👋! Here is Muhammad Abdulqadir Adem. A Copmuter Engineering student and a passionate Software Developer.</h2>
 <h3>My Website</h3>
-<p>Visit my website: <a href="https://mahamiportfolio.netlify.app/" target="_blank">mahamiportfolio.netlify.app/</a></p>
+<p>Visit my website: <a href="https://mahamiportfolio.netlify.app/" onclick="window.open(this.href, '_blank'); return false;">mahamiportfolio.netlify.app/</a></p>
+
 
 
 
